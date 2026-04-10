@@ -23,7 +23,10 @@ https://www.kaggle.com/datasets/asifxzaman/university-students-performance-and-s
 - Streamlit
 
 ## 🌐 Deployed App
-
+https://s3huntrj6gq2h7nmu8xfrc.streamlit.app/
 
 ## 📌 Conclusion
 Study habits such as attendance and study hours significantly impact student GPA.
+
+## Screenshot
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/31bc6252-84f2-47db-a5e8-5412e08565f2" />
